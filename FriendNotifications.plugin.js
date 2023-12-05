@@ -1,7 +1,7 @@
 /**
  * @name FriendNotifications
  * @author Fire
- * @authorId 278543574059057154
+ * @authorId 834035294994825246
  * @version V.1.0.1
  * @description Affichez les notifications d'un membre ou d'un ami. Personnalises les notifications que tu souhaites par amis.
  * @invite habbostoryfr
